@@ -1,7 +1,7 @@
 # Real-Estate-Scraper
 
-Scrapes a number of real estate website including Zillow.com, Realtor.com, Trulia.com, Movoto.com and Redfin.com and collects the zestimate from there.
-It stores all the data into MysqlDB.
+Scrapes a number of real estate websites including Zillow.com, Realtor.com, Trulia.com, Movoto.com and Redfin.com and collects the zestimates from there.
+It stores all the data into a MysqlDB.
 
 ## How to install
 
